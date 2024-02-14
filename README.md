@@ -8,9 +8,8 @@ Easy-to-use command-line interface.
 Installation
 Clone the repository to your local machine:
 
-bash
-Copy code
-git clone https://github.com/your-username/language-translator.git
+
+git clone (https://github.com/Adri2166/Language_Translator.git)
 Install the required dependencies:
 
 Copy code
